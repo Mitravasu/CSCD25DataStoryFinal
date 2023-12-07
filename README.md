@@ -49,3 +49,11 @@ To answer of second sub-question, we will determine the frequency with which an 
 To answer our third sub-question, we will repeat the steps for the first sub-question, but for positively voted comments.
 
 By answering these three sub-questions, we will be able to determine the difference in attitudes towards negatively voted comments between specialized and generalized communities.
+
+# Instructions to run the code
+
+1. Install pipenv
+2. Run `pipenv shell` to activate the virtual environment
+3. Run `pipenv install` to install the dependencies
+4. Select the pipenv shell as the kernel for the jupyter notebook
+5. Run the jupyter notebook
