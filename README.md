@@ -4,6 +4,10 @@
 
 https://mitravasu-cscd25-data-story-site.vercel.app/
 
+# Link to Github repository
+
+https://github.com/Mitravasu/CSCD25DataStoryFinal
+
 # Abstract
 
 Reddit is a social platform that allows users to participate in user-created communities (called subreddits) by creating posts, commenting, and voting. We can loosely categorize these subreddits into two types: generalized and specialized. Generalized subreddits are those that are not centered around a niche subject, and can have discourse about anything. In this report, we will be using comments from r/AskReddit, r/funny and r/todayilearned. Specialized subreddits are those that are centered around a niche subject. In this report, we will be using comments from r/guitars, r/piano, and r/photography. We want to examine the difference in attitude towards negatively voted comments in these communities to uncover what emotions a user feels when they read these comments that diverge from the community's values. We will be using the Reddit text dataset in conjunction with the Reddit API to extract negatively voted comments and their first replies in specialized and generalized communities. We will be using the NRC Emotion Lexicon to conduct our sentiment analysis of the comments. Using this data and tools, we hope to find general trends in the attitudes of users in these communities. In addition, we will also explore the difference in attitudes towards positively voted comments in these communities, and also the how the emotions of the initial comment is related to the emotion of its replies. Finding trends in these interactions could help us understand how what responses we can expect when posting a comment with a certain sentiment.
